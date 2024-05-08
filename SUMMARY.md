@@ -1,14 +1,17 @@
 ‌# Summary
 
-## Use headings to create page groups like this one
+## JavaScript
 
 * [Introduction to JavaScript]()
-    * [Some child page](./JavaScript/Introduction to JavaScript.md)
-
-* [Advanced]()
+    
+    * [Intro](./JavaScript/Introduction to JavaScript.md)
     * [Some child page](./JavaScript/Functions.md)
     * [Some other child page](./JavaScript/Prototypes & Inheritance.md)
+    
+* [Advanced]()
+    
+    
 
-## A second-page group
+## React
 
 * [React](react.md)
