@@ -1,4 +1,4 @@
-# Object in JS
+# JS中对象的创建
 
 JS有8种数据类型，其中7种是原始类型，最后一种就是对象。
 
@@ -34,7 +34,7 @@ for (let key in cat) {
 > 对象与原始值的根本区别之一在于，对象是“通过引用”存储和复制的，而原始值等总是“作为一个整体”复制。
 >
 
-## JS中对象的应用
+## 1. JS中对象的引用
 
 一开始我觉得这就是pass by reference（其实是指针的赋值） 和 pass by value的区别，查了一下发现还有pass by sharing的区分？开始疯狂挠头。关于JS中的这一点（Python也一样），感觉比较清楚的回答是[下面这个](https://stackoverflow.com/a/38533677/24989889)（像是刚学Python时，去tutor上跑一下就能回忆起来）：
 
@@ -116,7 +116,7 @@ for (let key in cat) {
 
 ## *关于pass by value/reference更多的讨论
 
-![image-20240511223042845](E:\搓一搓前端笔记\JavaScript\assets\image-20240511223042845.png)
+![image-20240511235111128](./assets/image-20240511235111128.png)
 
 好吧，我能很明白pass by value和所谓pass by sharing，但还是感觉很奇怪，或许应该通过C/C++来更深刻地理解pass by reference（今天学到了值语义（改变一个对象的副本不应该改变这个对象及其其他副本）&引用语义）。不过[这个回答]()让我非常满意和安心。
 
