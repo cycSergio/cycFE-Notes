@@ -116,7 +116,7 @@ for (let key in cat) {
 
 ## *关于pass by value/reference更多的讨论
 
-![image-20240511235111128](./assets/image-20240511235111128.png)
+<img src="./assets/image-20240511235111128.png" alt="image-20240511235111128" />
 
 好吧，我能很明白pass by value和所谓pass by sharing，但还是感觉很奇怪，或许应该通过C/C++来更深刻地理解pass by reference（今天学到了值语义（改变一个对象的副本不应该改变这个对象及其其他副本）&引用语义）。不过[这个回答]()让我非常满意和安心。
 
