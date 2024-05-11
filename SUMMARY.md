@@ -5,8 +5,8 @@
 * [Introduction to JavaScript]()
   
     * [Intro](./JavaScript/Introduction.md)
-    * [Some child page](./JavaScript/Functions.md)
-    * [Some other child page](./JavaScript/Prototypes&Inheritance.md)
+    * [Objects in JS](./JavaScript/1-2Object.md)
+    * [this in JS](./JavaScript/Prototypes&Inheritance.md)
     
 * [Advanced]()
   
