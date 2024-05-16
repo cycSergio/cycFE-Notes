@@ -60,6 +60,10 @@ JS中运行代码的模式有两种：
 
 面向对象编程：程序中所有操作都是通过对象来完成。做任何事情之前都需要先找到它的对象。
 
+- 封装（安全性）
+- 继承（扩展性）：通过继承可以在不修改一个已有类的情况下对其进行扩展，根据OCP原则，程序应该对修改关闭、对扩展开放。
+- 多态（灵活性）
+
 <a href="http://denero.org/" style="color:#c05b4d;">John DeNero</a>在他的<a href="https://www.composingprograms.com/pages/25-object-oriented-programming.html" style="color:#c05b4d;">Composing Programs 2.5.8 The Role of Objects</a>中是这样说的：
 
 > Object-oriented Programming is particularly well-suited to programs that model systems that have separate but interacting parts. ... On the other hand, classes may not provide the best mechanism for implementing certain abstractions. Functional abstractions provide a more natural metaphor for representing relationships between inputs and outputs.
