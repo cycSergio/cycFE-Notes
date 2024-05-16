@@ -12,7 +12,7 @@
 * [Arrays, Scope, Sets]()
   
   * [Array](./JavaScript/2-1Array.md)
-  * [Event Loop](./JavaScipr/2-4EventLoop.md)
+  * [Event Loop](./JavaScript/2-4EventLoop.md)
   
 * [Class, Prototypes, Inheritance]()
 
