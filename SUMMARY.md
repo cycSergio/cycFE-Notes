@@ -4,15 +4,15 @@
 
 * [Introduction to JavaScript]()
   
-    * [Intro](./JavaScript/1-1Introduction.md)
-    * [Object](./JavaScript/1-2Object.md)
+    * [Intro](./JavaScript/Chapter1/1-1Introduction.md)
+    * [Object](./JavaScript/Chapter1/1-2Object.md)
     * [this](./JavaScript/Prototypes&Inheritance.md)
     * [Garbage Collection]()
     
 * [Arrays, Scope, Sets]()
   
   * [Array](./JavaScript/2-1Array.md)
-  * [Event Loop](./JavaScript/2-4EventLoop.md)
+  * [Event Loop](./JavaScript/Chapter2/2-4EventLoop.md)
   
 * [Class, Prototypes, Inheritance]()
 
