@@ -1,5 +1,7 @@
 ‌# Summary
 
+好家伙，缩进要正确，不然读不出来
+
 ## JavaScript
 
 * [Introduction to JavaScript]()
@@ -11,12 +13,12 @@
     
 * [Arrays, Scope, Sets]()
   
-  * [Array]()
-  * [Event Loop](./JavaScript/Chapter2/2-4EventLoop.md)
+    * [Array]()
+    * [Event Loop](./JavaScript/Chapter2/2-4EventLoop.md)
   
 * [Class, Prototypes, Inheritance]()
 
-  * 
+    * 
 
 * [Advanced]()
 
