@@ -38,4 +38,5 @@
 * [模块化](./Nodejs/Modulization.md)
 * [npm包管理器](./Nodejs/npm.md)
 * [Express](./Nodejs/Express.md)
+* [REST和AJAX](./Nodejs/RESTandAJAX.md)
 
